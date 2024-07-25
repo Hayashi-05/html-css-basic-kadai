@@ -1,0 +1,27 @@
+.first-heading {
+ color: rgb(255, 20, 145);
+ text-align: center;
+}
+
+.second-heading {
+  color: cadetblue;
+  text-align: center;
+}
+
+.decoration {
+  font-weight: bold;
+  text-align: center;
+}
+
+.character-spacing {
+letter-spacing: 1.0em;
+text-align: center;
+}
+
+.text-blue {
+  color: cadetblue;
+}
+
+.a1 {
+  text-align: center;
+}
