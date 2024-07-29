@@ -1,0 +1,38 @@
+.first-heading {
+ color: rgb(255, 192, 203);
+ text-align: center;
+}
+
+.second-heading {
+  color: skyblue;
+  text-align: center;
+}
+
+.decoration {
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+font-size: 20px;
+text-align: center;
+letter-spacing: 1.2em;
+text-shadow: 2px 2px 4px gray;
+border-bottom: solid 2px black;
+}
+
+.text-blue {
+  color: skyblue;
+}
+
+.pink {
+  color: rgb(255, 192, 203);
+}
+
+p {
+  text-align: center;
+}
+
+.a1{
+  font-weight: bold;
+}
